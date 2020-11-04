@@ -4,8 +4,12 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
+<<<<<<< HEAD
   m_Scenes:
   - enabled: 1
     path: Assets/Scenes/QuestionAnswerPage.unity
     guid: 5f97d7ad5c2a70942af6691697061565
+=======
+  m_Scenes: []
+>>>>>>> Kadin
   m_configObjects: {}

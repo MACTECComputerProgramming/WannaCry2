@@ -225,8 +225,13 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
+<<<<<<< HEAD
   m_AnchoredPosition: {x: -227.19998, y: 25.899994}
   m_SizeDelta: {x: 93.96562, y: 30}
+=======
+  m_AnchoredPosition: {x: -164.8, y: 25.899994}
+  m_SizeDelta: {x: 91.26634, y: 30}
+>>>>>>> Kadin
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &284286232
 MonoBehaviour:
@@ -483,7 +488,11 @@ GameObject:
   - component: {fileID: 947299000}
   - component: {fileID: 947298999}
   m_Layer: 5
+<<<<<<< HEAD
   m_Name: Answer D
+=======
+  m_Name: Answer D (Text)
+>>>>>>> Kadin
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -505,8 +514,13 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
+<<<<<<< HEAD
   m_AnchoredPosition: {x: -69.8, y: -109.2}
   m_SizeDelta: {x: 160, y: 30}
+=======
+  m_AnchoredPosition: {x: -11.8, y: -109.2}
+  m_SizeDelta: {x: 155.40381, y: 30}
+>>>>>>> Kadin
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &947298999
 MonoBehaviour:
@@ -541,7 +555,11 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
+<<<<<<< HEAD
   m_Text: New Text
+=======
+  m_Text: "\tJames Monroe"
+>>>>>>> Kadin
 --- !u!222 &947299000
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -586,8 +604,13 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
+<<<<<<< HEAD
   m_AnchoredPosition: {x: -227.19998, y: -109.2}
   m_SizeDelta: {x: 93.96562, y: 30}
+=======
+  m_AnchoredPosition: {x: -164.8, y: -109.2}
+  m_SizeDelta: {x: 91.26634, y: 30}
+>>>>>>> Kadin
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &985121373
 MonoBehaviour:
@@ -706,8 +729,13 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
+<<<<<<< HEAD
   m_AnchoredPosition: {x: -227.19998, y: -66.4}
   m_SizeDelta: {x: 93.96562, y: 30}
+=======
+  m_AnchoredPosition: {x: -164.8, y: -66.4}
+  m_SizeDelta: {x: 91.26634, y: 30}
+>>>>>>> Kadin
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &986408825
 MonoBehaviour:
@@ -918,8 +946,13 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
+<<<<<<< HEAD
   m_AnchoredPosition: {x: -227.19998, y: -21.5}
   m_SizeDelta: {x: 93.96562, y: 30}
+=======
+  m_AnchoredPosition: {x: -164.8, y: -21.5}
+  m_SizeDelta: {x: 91.26634, y: 30}
+>>>>>>> Kadin
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1189905554
 MonoBehaviour:
@@ -1036,8 +1069,13 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
+<<<<<<< HEAD
   m_AnchoredPosition: {x: -4.65, y: 105.88}
   m_SizeDelta: {x: 372.05475, y: 80.23682}
+=======
+  m_AnchoredPosition: {x: -29.75, y: 68}
+  m_SizeDelta: {x: 361.36707, y: 80.23682}
+>>>>>>> Kadin
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1229482900
 MonoBehaviour:
@@ -1052,7 +1090,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
+<<<<<<< HEAD
   m_Color: {r: 0.19607843, g: 0.19607843, b: 0.19607843, a: 1}
+=======
+  m_Color: {r: 0, g: 0, b: 0, a: 1}
+>>>>>>> Kadin
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
   m_Maskable: 1
@@ -1061,7 +1103,11 @@ MonoBehaviour:
       m_Calls: []
   m_FontData:
     m_Font: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
+<<<<<<< HEAD
     m_FontSize: 18
+=======
+    m_FontSize: 14
+>>>>>>> Kadin
     m_FontStyle: 0
     m_BestFit: 0
     m_MinSize: 1
@@ -1072,7 +1118,12 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
+<<<<<<< HEAD
   m_Text: New Text
+=======
+  m_Text: "\t2.  Which President attended Napoleon's coronation in 1804 as an American
+    ambassador not as the President of the United States?"
+>>>>>>> Kadin
 --- !u!222 &1229482901
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -1172,7 +1223,11 @@ GameObject:
   - component: {fileID: 1287549404}
   - component: {fileID: 1287549403}
   m_Layer: 5
+<<<<<<< HEAD
   m_Name: Answer C
+=======
+  m_Name: Answer C (Text)
+>>>>>>> Kadin
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1194,8 +1249,13 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
+<<<<<<< HEAD
   m_AnchoredPosition: {x: -69.8, y: -66.4}
   m_SizeDelta: {x: 160, y: 30}
+=======
+  m_AnchoredPosition: {x: -11.8, y: -66.4}
+  m_SizeDelta: {x: 155.40381, y: 30}
+>>>>>>> Kadin
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1287549403
 MonoBehaviour:
@@ -1230,7 +1290,11 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
+<<<<<<< HEAD
   m_Text: New Text
+=======
+  m_Text: "\tJames K Polk"
+>>>>>>> Kadin
 --- !u!222 &1287549404
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -1330,7 +1394,11 @@ GameObject:
   - component: {fileID: 1396525033}
   - component: {fileID: 1396525032}
   m_Layer: 5
+<<<<<<< HEAD
   m_Name: Answer B
+=======
+  m_Name: Answer B (Text)
+>>>>>>> Kadin
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1352,8 +1420,13 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
+<<<<<<< HEAD
   m_AnchoredPosition: {x: -69.80002, y: -21.499996}
   m_SizeDelta: {x: 160, y: 30}
+=======
+  m_AnchoredPosition: {x: -11.8, y: -21.499996}
+  m_SizeDelta: {x: 155.40381, y: 30}
+>>>>>>> Kadin
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1396525032
 MonoBehaviour:
@@ -1388,7 +1461,11 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
+<<<<<<< HEAD
   m_Text: New Text
+=======
+  m_Text: "\tJohn Quincy Adams"
+>>>>>>> Kadin
 --- !u!222 &1396525033
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -1409,7 +1486,11 @@ GameObject:
   - component: {fileID: 1995357346}
   - component: {fileID: 1995357345}
   m_Layer: 5
+<<<<<<< HEAD
   m_Name: Answer A
+=======
+  m_Name: Answer A (Text)
+>>>>>>> Kadin
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1431,8 +1512,13 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
+<<<<<<< HEAD
   m_AnchoredPosition: {x: -69.8, y: 25.9}
   m_SizeDelta: {x: 160, y: 30}
+=======
+  m_AnchoredPosition: {x: -11.8, y: 25.9}
+  m_SizeDelta: {x: 155.40381, y: 30}
+>>>>>>> Kadin
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1995357345
 MonoBehaviour:
@@ -1467,7 +1553,11 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
+<<<<<<< HEAD
   m_Text: New Text
+=======
+  m_Text: "\tJohn Tyler"
+>>>>>>> Kadin
 --- !u!222 &1995357346
 CanvasRenderer:
   m_ObjectHideFlags: 0
